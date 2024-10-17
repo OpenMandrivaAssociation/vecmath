@@ -9,7 +9,7 @@ Summary:       The 3D vector math Java package, javax.vecmath
 
 # License is GNU General Public License, version 2, with the Classpath Exception
 License:       GPLv2 with exceptions
-URL:           http://github.com/hharrison/vecmath
+URL:           https://github.com/hharrison/vecmath
 Source0:       https://github.com/hharrison/vecmath/archive/%{commit}/%{name}-%{version}-%{shortcommit}.tar.gz
 # Fix link to javadoc
 Patch0:        %{name}-%{version}-javadoc-link.patch
